@@ -23,5 +23,5 @@ app.use("/api/products", productRoutes);
 //initalizing port and starting the server
 const port = 5000;
 app.listen(port, () => {
-  console.log(`server started at ${port} and running`);
+  console.log(`server started at ${port} and running running`);
 });
